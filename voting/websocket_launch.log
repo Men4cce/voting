@@ -1,0 +1,70 @@
+[2025-07-17 04:43:10] Bejelentkezés indult
+[2025-07-17 04:43:14] WebSocket még nem fut, próbáljuk indítani...
+[2025-07-17 04:43:14] Parancs futtatva (Windows): start /B "C:\xampp\php\php.exe" "C:\xampp\htdocs\voting\websocket\websocket-server.php" > websocket\ws_output.log 2>&1
+[2025-07-17 04:43:20] ❌ WebSocket NEM indult el.
+[2025-07-17 04:50:08] Bejelentkezés indult
+[2025-07-17 04:50:12] WebSocket még nem fut, próbáljuk indítani...
+[2025-07-17 04:50:12] Parancs futtatva (Windows): start /B "C:\xampp\php\php.exe" "C:\xampp\htdocs\voting\websocket\websocket-server.php" > websocket\ws_output.log 2>&1
+[2025-07-17 04:50:18] ❌ WebSocket NEM indult el.
+[2025-07-17 04:56:13] Bejelentkezés indult
+[2025-07-17 04:56:17] WebSocket még nem fut, próbáljuk indítani...
+[2025-07-17 04:56:17] Parancs futtatva (Windows): start /B "C:\xampp\php\php.exe" "C:\xampp\htdocs\voting\websocket\websocket-server.php" > websocket\ws_output.log 2>&1
+[2025-07-17 04:56:23] ❌ WebSocket NEM indult el.
+[2025-07-17 04:59:40] Bejelentkezés indult
+[2025-07-17 04:59:44] WebSocket még nem fut, próbáljuk indítani...
+[2025-07-17 04:59:44] Parancs futtatva (Windows): start /B "C:\xampp\php\php.exe" "C:\xampp\htdocs\voting\websocket\websocket-server.php" > websocket\ws_output.log 2>&1
+[2025-07-17 04:59:50] ❌ WebSocket NEM indult el.
+[2025-07-17 05:04:13] Bejelentkezés indult
+[2025-07-17 05:04:17] WebSocket még nem fut, próbáljuk indítani...
+[2025-07-17 05:04:17] Parancs futtatva (Windows): start /B "C:\xampp\php\php.exe" "C:\xampp\htdocs\voting\websocket\websocket-server.php" > websocket\ws_output.log 2>&1
+[2025-07-17 05:04:23] ❌ WebSocket NEM indult el.
+[2025-07-17 05:09:12] 🔐 Bejelentkezés indult
+[2025-07-17 05:09:16] 🔄 WebSocket még nem fut, próbáljuk indítani...
+[2025-07-17 05:09:16] 🛠️ Futtatandó parancs: cmd /C start "" "C:\xampp\php\php.exe" "C:\xampp\htdocs\voting\websocket\websocket-server.php" > "C:\xampp\htdocs\voting\websocket\ws_output.log" 2>&1
+[2025-07-17 05:09:20] ✅ WebSocket sikeresen elindult
+[2025-07-17 05:13:28] 🔐 Bejelentkezés indult
+[2025-07-17 05:13:32] 🔄 WebSocket még nem fut, próbáljuk indítani...
+[2025-07-17 05:13:32] 🛠️ Futtatandó parancs: cmd /C start "" "C:\xampp\php\php.exe" "C:\xampp\htdocs\voting\websocket\websocket-server.php" > "C:\xampp\htdocs\voting\websocket\ws_output.log" 2>&1
+[2025-07-17 05:13:39] ❌ WebSocket NEM indult el
+[2025-07-17 05:17:09] 🔐 Bejelentkezés indult
+[2025-07-17 05:17:13] 🔄 WebSocket még nem fut, próbáljuk indítani...
+[2025-07-17 05:17:13] 🛠️ Futtatandó parancs: cmd /C start "" "C:\xampp\php\php.exe" "C:\xampp\htdocs\voting\websocket\websocket-server.php" > "C:\xampp\htdocs\voting\websocket\ws_output.log" 2>&1
+[2025-07-17 05:17:13] ▶️ VBS indítása: C:\xampp\htdocs\voting\websocket\start_socket.vbs
+[2025-07-17 05:17:19] ❌ WebSocket NEM indult el
+[2025-07-17 05:25:27] 🔐 Bejelentkezés indult
+[2025-07-17 05:25:31] 🔄 WebSocket még nem fut, próbáljuk indítani...
+[2025-07-17 05:25:31] ▶️ VBS indítása háttérben: C:\xampp\htdocs\voting\websocket\start_socket.vbs
+[2025-07-17 05:25:38] ❌ WebSocket NEM indult el
+[2025-07-17 05:27:32] 🔐 Bejelentkezés indult
+[2025-07-17 05:27:36] 🔄 WebSocket még nem fut, próbáljuk indítani...
+[2025-07-17 05:27:36] ▶️ VBS indítása háttérben: C:\xampp\htdocs\voting\websocket\start_socket.vbs
+[2025-07-17 05:27:53] ❌ WebSocket NEM indult el
+[2025-07-17 05:29:52] 🔐 Bejelentkezés indult
+[2025-07-17 05:29:56] 🔄 WebSocket még nem fut, próbáljuk indítani...
+[2025-07-17 05:29:56] ▶️ VBS indítása háttérben: C:\xampp\htdocs\voting\websocket\start_socket.vbs
+[2025-07-17 05:30:00] ✅ WebSocket sikeresen elindult
+[2025-07-17 05:30:55] 🔐 Bejelentkezés indult
+[2025-07-17 05:30:57] ✅ WebSocket már fut
+[2025-07-17 05:34:55] 🔐 Bejelentkezés indult
+[2025-07-17 05:34:57] ✅ WebSocket már fut
+[2025-07-17 05:48:02] 🔐 Bejelentkezés indult
+[2025-07-17 05:48:06] 🔄 WebSocket még nem fut, próbáljuk indítani...
+[2025-07-17 05:48:06] ▶️ VBS indítása háttérben: C:\xampp\htdocs\voting\websocket\start_socket.vbs
+[2025-07-17 05:48:10] ✅ WebSocket sikeresen elindult
+[2025-07-17 05:48:47] 🔐 Bejelentkezés indult
+[2025-07-17 05:48:51] 🔄 WebSocket még nem fut, próbáljuk indítani...
+[2025-07-17 05:48:51] ▶️ VBS indítása háttérben: C:\xampp\htdocs\voting\websocket\start_socket.vbs
+[2025-07-17 05:48:55] ✅ WebSocket sikeresen elindult
+[2025-07-17 05:53:15] 🛑 WebSocket leállítás parancs küldve
+[2025-07-17 05:54:38] 🔐 Bejelentkezés indult
+[2025-07-17 05:54:40] ✅ WebSocket már fut
+[2025-07-17 06:00:35] 🛑 WebSocket leállítás parancs küldve
+[2025-07-17 06:00:38] 🔐 Bejelentkezés indult
+[2025-07-17 06:00:41] ✅ WebSocket már fut
+[2025-07-17 06:01:29] 🛑 WebSocket leállítás parancs küldve
+[2025-07-17 06:10:09] 🔐 Bejelentkezés indult
+[2025-07-17 06:10:11] ✅ WebSocket már fut
+[2025-07-17 06:10:26] 🛑 WebSocket leállítás parancs küldve
+[2025-07-17 06:10:29] 🔐 Bejelentkezés indult
+[2025-07-17 06:10:31] ✅ WebSocket már fut
+[2025-07-17 06:12:41] 🛑 WebSocket leállítás parancs küldve
